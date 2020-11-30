@@ -37,6 +37,10 @@
                         <td>Salary</td>
                         <td><input type="text" class="form-control"></td>
                     </tr>
+                    <tr>
+                        <td></td>
+                        <td><button class="btn btn-success">Submit</button></td>
+                    </tr>
                 </table>
             </div>
         </div>
